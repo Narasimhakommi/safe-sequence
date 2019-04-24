@@ -1,2 +1,2 @@
-# safe-sequence
-To find the safe sequence through Bankers Algorithm
+#include<conio.h>
+#include<stdio.h>
